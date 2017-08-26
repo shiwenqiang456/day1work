@@ -25,11 +25,7 @@
     "@angular/material": "^2.0.0-beta.8",
     "@angular/platform-browser": "4.3.0",
     "@angular/platform-browser-dynamic": "4.3.0",
-<<<<<<< HEAD
-    "@angular/platform-server": "^4.3.6",
-=======
     "@angular/platform-server": "4.3.0",
->>>>>>> da61f770526a5fc067b7917073d74643ca48bae5
     "@angular/router": "4.3.0",
     "core-js": "2.4.1",
     "rxjs": "5.1.0",
